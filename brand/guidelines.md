@@ -3,7 +3,7 @@
 ## Product Name
 - **RotoAgent** (one word, capital R, capital A)
 - Tagline: "Transform 60 minutes of daily analysis into a single tap"
-- Powered by ROTOGPT engine (internal reference only)
+- Powered by the ROTOGPT engine
 
 ## Hard Rules
 1. **NEVER use the word "AI" in any external content.** Not in marketing, tweets, ads, app descriptions, emails. Never. This is a permanent brand rule.
