@@ -1,22 +1,22 @@
 # KPI Dashboard
 
-Last updated: March 24, 2026 at 8:05 AM CT (auto-generated)
+Last updated: March 26, 2026 at 8:02 AM CT (auto-generated)
 
 ## Current Metrics (Production DB)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Registered Users | 34 | All have emails |
-| Active Users (used AI) | 24 | Made at least one AI call |
-| Paying Subscribers | 7 | 6 annual + 1 monthly |
-| Free Users | 17 | |
-| Conversion Rate | 29% | Paid / active |
-| iOS Users (push enabled) | 10 | Only counts push-accepted users |
+| Registered Users | 35 | All have emails |
+| Active Users (used AI) | 25 | Made at least one AI call |
+| Paying Subscribers | 7 | 6 annual + 0 monthly |
+| Free Users | 18 | |
+| Conversion Rate | 28% | Paid / active |
+| iOS Users (push enabled) | 11 | Only counts push-accepted users |
 | Android Users (push enabled) | 6 | Only counts push-accepted users |
 | Chrome Extension Installs | 3 | |
 | New Signups (today) | 1 | |
-| New Signups (7 day) | 12 | |
-| New Signups (28 day) | 20 | |
+| New Signups (7 day) | 8 | |
+| New Signups (28 day) | 21 | |
 | iOS Reviews | 0 | Manual check needed |
 | Android Reviews | 0 | Manual check needed |
 
@@ -24,9 +24,9 @@ Last updated: March 24, 2026 at 8:05 AM CT (auto-generated)
 
 | Status | Count |
 |--------|-------|
-| free | 17 |
+| free | 18 |
 | pro_annual | 6 |
-| pro_monthly | 1 |
+| pro | 1 |
 
 ## Surfaces
 
@@ -40,9 +40,9 @@ RotoAgent operates across 4 surfaces:
 
 | KPI | Now | 30 Day | 60 Day | 90 Day |
 |-----|-----|--------|--------|--------|
-| Active Users | 24 | 55 | 165 | 440 |
+| Active Users | 25 | 55 | 165 | 440 |
 | Paying Subs | 7 | 20 | 60 | 175 |
-| Weekly Signups | ~12 | 12 | 35 | 100 |
+| Weekly Signups | ~8 | 12 | 35 | 100 |
 | iOS Reviews | 0 | 10+ | 25+ | 50+ |
 | Android Reviews | 0 | 10+ | 25+ | 50+ |
 
