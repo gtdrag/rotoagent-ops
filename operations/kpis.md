@@ -1,6 +1,6 @@
 # KPI Dashboard
 
-Last updated: March 28, 2026 at 8:04 AM CT (auto-generated)
+Last updated: March 29, 2026 at 8:05 AM CT (auto-generated)
 
 ## Current Metrics (Production DB)
 
@@ -14,9 +14,9 @@ Last updated: March 28, 2026 at 8:04 AM CT (auto-generated)
 | iOS Users (push enabled) | 12 | Only counts push-accepted users |
 | Android Users (push enabled) | 7 | Only counts push-accepted users |
 | Chrome Extension Installs | 3 | |
-| New Signups (today) | 1 | |
-| New Signups (7 day) | 10 | |
-| New Signups (28 day) | 23 | |
+| New Signups (today) | 0 | |
+| New Signups (7 day) | 9 | |
+| New Signups (28 day) | 22 | |
 | iOS Reviews | 0 | Manual check needed |
 | Android Reviews | 0 | Manual check needed |
 
@@ -42,7 +42,7 @@ RotoAgent operates across 4 surfaces:
 |-----|-----|--------|--------|--------|
 | Active Users | 28 | 55 | 165 | 440 |
 | Paying Subs | 7 | 20 | 60 | 175 |
-| Weekly Signups | ~10 | 12 | 35 | 100 |
+| Weekly Signups | ~9 | 12 | 35 | 100 |
 | iOS Reviews | 0 | 10+ | 25+ | 50+ |
 | Android Reviews | 0 | 10+ | 25+ | 50+ |
 
